@@ -1,3 +1,3 @@
-# 10 veidi kā apzagt milijonāri
-Mērķis: apzagt milijonāri
-Atvēršana: atver index.html pārlūkā.
+# Lido uz Antarktīdu
+Mērķis: Aizlidot uz antarktīdu izvairoties no kalniem
+Atvēršana: atver index.html pārlūkā. atrodas 26 folder
